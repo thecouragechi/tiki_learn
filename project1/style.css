@@ -23,7 +23,6 @@
 
  ul {
     display: flex;
-    font-size: 18px;
     list-style-type: none;
     gap: 8px;
     margin: 0;
