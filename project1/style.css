@@ -1,0 +1,165 @@
+.container1 {
+    display: flex;
+    min-height: 400px;
+    background: #F5F5F5;
+    flex-direction: column;
+}
+
+.a1div {
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-around;
+    margin-top: 10px;
+    color: black;
+    font-family: hero;
+    margin-bottom: 10px;
+}
+
+.headerlogo {
+    font-size: 24px;
+    display: flex;
+    font-weight: bold;
+}
+
+ ul {
+    display: flex;
+    font-size: 18px;
+    list-style-type: none;
+    gap: 8px;
+    margin: 0;
+    padding: 0;
+    color: black;
+    }
+    
+    .subscribe {
+        background: black;
+        color: white;
+    }
+    
+    .a2div {
+      display: flex;
+      align-items: center;
+      justify-content: center; 
+      flex-direction: column; 
+      margin: 0px;
+      padding: 0px 100px;
+      text-align: center;
+      }
+    
+    .signup {
+        background: black;
+        color: white;
+    }
+    
+    .login {
+        color: black; 
+        border: 2px solid black;
+    }
+    
+    .container2 {
+    display: flex;
+    min-height: 600px;
+    background: white;
+    flex-direction: column; 
+}
+    
+   .headerimg1 {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        font: hero; 
+        color: black;
+        text-align: left;
+        padding: 20px 100px;
+    }
+    
+.text1 {
+    font-size: 18px;
+    margin-top: 0px;
+    margin-bottom: 5px;
+   }
+
+
+ .signup1 {
+  display: flex;
+  padding: 8px 16px;
+  border-radius: 10px;
+  color: white;
+  background: black;
+}
+
+ .header {
+    font-size: 24px;
+    display: flex;
+    font-weight: bold;
+    margin-bottom: 5px;
+ }
+ 
+ .img1 {
+     display:flex;
+     justify-content: center;
+     margin-top: 0px;
+ }
+
+.img2 {
+    padding: 0px 100px 0px 0px;
+    }
+    
+    .headerimg2 {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        font: hero; 
+        color: black;
+        text-align: left;
+        padding: 10px 100px;
+        margin: 0px;
+    }
+   
+    .img3 {
+    padding: 0px 0px 0px 50px;
+    }
+
+ .usp {
+     font-size: 24px;
+    display: flex;
+    font-weight: bold;
+    text-align: center;
+    justify-content: center;
+ }
+
+.a3div {
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-around;
+    margin-top: 10px;
+    color: white;
+    font-family: hero;
+    margin-bottom: 10px;
+}
+
+.getstarted {
+    background: white;
+        color: black;
+        border: 2px solid white;
+}
+.headerlink2 {
+    display: flex;
+    flex-direction: column;
+}
+
+.container3 {
+    display: flex;
+    min-height: 100px;
+    background: #152238;
+    flex-direction: column;
+}
+
+.text3 {
+    display:flex;
+    flex-direction: column;
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+
